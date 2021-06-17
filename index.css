@@ -1,0 +1,40 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  height: 100vh;
+}
+
+#root {
+  width: 100%;
+  height: 100%;
+  background-color: #e9ebd8;
+}
+
+#ChooseRoot{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ButtonClass{
+  display: container;
+  height: 30%;
+  margin: 5vw;
+  background-color: #eaf779;
+  border: none;
+}
+
+.ButtonClass:hover{
+  background-color: #bfc961;
+  cursor: pointer;
+}
+
+#Multiply{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
